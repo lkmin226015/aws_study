@@ -4,12 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-sanic = "*"
-flask = "*"
 zappa = "*"
-pip = "*"
-numpy = "*"
-matplotlib = "*"
+flask = "*"
 
 [dev-packages]
 
